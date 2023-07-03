@@ -47,8 +47,9 @@ This is a simple ERC-20 token contract implemented in Solidity. The contract all
       
 ## Authors
 
-NAME :-NILESH SHARMA
-EMAIL:- nileshsharma5661@gmail.com
+NAME :-NILESH SHARMA .
+
+EMAIL:- nileshsharma5661@gmail.com .
      
 
 ## License
